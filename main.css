@@ -36,6 +36,10 @@ header{
     color: #ffff;
 }
 
+.carousel{
+    margin-top: 24px;
+}
+
 section{
     padding: 5rem 0;
     
